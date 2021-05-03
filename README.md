@@ -1,2 +1,2 @@
-# Square
-Function that creates a 2X2 square
+# Function that creates a 2X2 square
+
